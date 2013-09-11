@@ -1,4 +1,4 @@
 # Mobile Responsive Menu
 ##### A nice little menu for shrinking your navigation on mobile devices.
 
-More shit to go here.
+A demo is available [here](http://joeyemery.github.io/things/responsive_menu).
